@@ -12,8 +12,8 @@ JOBS = [
    {
   "id": 2,
   'title': "Software Engineer",
-  "location": "Bengluru, India",
-  "salary": "Rs 10,00,000",
+  "location": "California, USA",
+  "salary": "$ 10,00,000",
 },
    {
   "id": 3,
@@ -48,8 +48,8 @@ JOBS = [
    {
   "id": 5,
   'title': "System Desginer",
-  "location": "Bengluru, India",
-  "salary": "Rs 10,00,000",
+  "location": "Amsterdam, Germany",
+  "salary": "$ 90,00,000",
 },
   
 ]
